@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/OneDrive/ED1/Aulas Lab/EstGenLab/listagen.c
+stdlib.h
+-
+listagen.h
+D:/OneDrive/ED1/Aulas Lab/EstGenLab/listagen.h
+
+D:/OneDrive/ED1/Aulas Lab/EstGenLab/listagen.h
+
+D:/OneDrive/ED1/Aulas Lab/EstGenLab/lponto.c
+stdio.h
+-
+stdlib.h
+-
+lponto.h
+D:/OneDrive/ED1/Aulas Lab/EstGenLab/lponto.h
+
+D:/OneDrive/ED1/Aulas Lab/EstGenLab/lponto.h
+listagen.h
+D:/OneDrive/ED1/Aulas Lab/EstGenLab/listagen.h
+
+D:/OneDrive/ED1/Aulas Lab/EstGenLab/ponto.c
+stdio.h
+-
+lponto.h
+D:/OneDrive/ED1/Aulas Lab/EstGenLab/lponto.h
+

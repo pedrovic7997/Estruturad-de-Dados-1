@@ -1,0 +1,3 @@
+D:/OneDrive/ED1/ABBLab/cmake-build-debug/CMakeFiles/ABBLab.dir
+D:/OneDrive/ED1/ABBLab/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/OneDrive/ED1/ABBLab/cmake-build-debug/CMakeFiles/rebuild_cache.dir

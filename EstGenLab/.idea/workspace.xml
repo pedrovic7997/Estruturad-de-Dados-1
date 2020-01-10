@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="EstGenLab" targetName="EstGenLab" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63e3c603-aa9d-4c3f-aa09-7fd6b10869fe" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>prox</find>
+      <find>-&gt;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectId" id="1Ta3rMxuuz6ynaNgWaZrilOBxpP" />
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="option&#9;ACTION&#9;WebDeployment.Options" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EstGenLab" RUN_TARGET_NAME="EstGenLab" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EstGenLab" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EstGenLab" TARGET_NAME="EstGenLab" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EstGenLab" RUN_TARGET_NAME="EstGenLab">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Build All" />
+      <item itemvalue="CMake Application.EstGenLab" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63e3c603-aa9d-4c3f-aa09-7fd6b10869fe" name="Default Changelist" comment="" />
+      <created>1573468353984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573468353984</updated>
+      <workItem from="1573468355567" duration="206000" />
+      <workItem from="1573468581813" duration="5247000" />
+      <workItem from="1573570006684" duration="4310000" />
+      <workItem from="1573578379392" duration="1436000" />
+      <workItem from="1573642790223" duration="2628000" />
+      <workItem from="1573650348858" duration="5422000" />
+      <workItem from="1573655947690" duration="104000" />
+      <workItem from="1573656093219" duration="6000" />
+      <workItem from="1573656125391" duration="1048000" />
+      <workItem from="1573657359095" duration="5000" />
+      <workItem from="1573657443402" duration="151000" />
+      <workItem from="1573684580343" duration="2234000" />
+      <workItem from="1573695872405" duration="34000" />
+      <workItem from="1573702849984" duration="1710000" />
+      <workItem from="1573754195805" duration="17000" />
+      <workItem from="1575831832583" duration="136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

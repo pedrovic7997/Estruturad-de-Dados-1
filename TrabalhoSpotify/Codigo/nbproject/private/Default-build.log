@@ -1,0 +1,7 @@
+gcc amigos.c -c
+gcc musica.c -c
+gcc playlist.c -c
+gcc usuario.c -c
+gcc usuarios.c -c
+gcc main.c -c
+gcc *.o -o PlayED
